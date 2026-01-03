@@ -6,7 +6,7 @@ import { useState} from "react"
 function App() {
   return (
     <>
-        <h1 className="text-5xl md:text-6xl font-extrabold text-center text-white bg-gradient-to-r from-purple-600 to-pink-600 py-8 mb-0 shadow-lg">
+        <h1 className="text-5xl md:text-6xl font-extrabold text-center text-white bg-gradient-to-r from-red-500 to-orange-500 py-8 mb-0 shadow-lg">
         Random GIFS
       </h1>
       <Random/>
